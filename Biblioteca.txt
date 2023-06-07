@@ -1,0 +1,20 @@
+
+ENTIDADES
+- Livro
+- Autor
+- Usuário
+- Empréstimo
+  - Empréstimo_Livro
+
+ESPECIFICAÇÕES
+- CRUD de Livro
+- CRUD de Autor
+- Cadastro de Usuário/Cliente
+- Controlar empréstimos
+- Avisos de atrasos
+
+PRÓXIMAS DEMANDAS
+- Quantidades de livros emprestados atual
+- Controle dos disponíveis
+- Multas de atrasos
+- Reservar livros
